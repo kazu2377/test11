@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-aaaaaa
-ZZZZZZZZZZZZZZZZZZ
-=======
-こんにちは123ハロー
-
-test101
->>>>>>> e7f08dc13c3e55b11f679d4d88e1449e7ef0e7b3
+3333
